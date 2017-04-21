@@ -1,0 +1,27 @@
+{
+  "name": "unify-pp",
+  "homepage": "https://github.com/pepeul1191/unify-pp",
+  "authors": [
+    "Pepe Valdivia <jvaldivia@softweb.pe>"
+  ],
+  "description": "Dashboard Bootstrap Unify style",
+  "main": "",
+  "keywords": [
+    "unify",
+    "mootools",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "boostrap#^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
