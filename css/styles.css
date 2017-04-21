@@ -13,6 +13,11 @@ a {color: #72c02c;text-decoration: none;}
 label{font-weight: 500;}
 .content { padding-top: 20px; padding-bottom: 20px; }
 /* Inicio Global */
+@media (min-width: 1200px)
+grid.less:7
+.container {
+    width: 96%;
+}
 /* Inicio Header */
 body.header-fixed-space-default { -top: 81px; }
 @media (max-width: 991px) { 	
