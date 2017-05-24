@@ -15,7 +15,7 @@ label{font-weight: 500;}
 .workspace{font-size: 12px; padding-left: 0px; padding-right: 0px;}
 .sky-form {box-shadow: none; border: 1px solid #eee;}
 .sky-form {margin: 0; outline: none;color: #666;}
-.sky-form header {color: inherit; display: block;font-size: 20px;background: #fff; font-weight: 400; padding: 8px 30px; border-bottom: 1px solid #eee;}
+.sky-form header {color: inherit; display: block;font-size: 20px;background: #fff; font-weight: 400; padding: 8px 20px; border-bottom: 1px solid #eee;}
 .sky-form fieldset {display: block; padding: 20px 10px 20px;border: none;}
 /* Inicio Global */
 @media (min-width: 1200px){
@@ -170,10 +170,12 @@ body.header-fixed-space-default { -top: 81px; }
 	.footer-v1 .copyright,.footer-v1 .footer-socials {text-align: left; }
 }
 /* Fin Footer */
-  /* Inicio Foms Nuevos*/
+/* Inicio Foms Nuevos*/
 .btn-app:hover { color: #FFFFFF !important; background-color: #5fb611 !important; border-color: #5fb611 !important; font-size: 12px;     border-radius: 0px; padding: 5px; }
 .btn-app { color: #FFFFFF !important; background-color: #72c02c !important; border-color: #72c02c !important; font-size: 12px;     border-radius: 0px; padding: 6px; }
 .row-formulario{ margin-right: 0px; margin-left: 0px; }
 .row-formulario > .workspace {padding-left: 10px; padding-right: 10px;}
 .form-group > .btn-app {position:  relative; float: right; margin-top: 25px;}
+.hr{border: solid 0.5px #eee; margin-bottom: 10px; margin-top: 10px;}
+progress{ height: 31px; margin-left: 20px; }
 /* Fin Foms Nuevos */
